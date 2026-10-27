@@ -94,8 +94,7 @@ The project is designed to work with Python and OpenCV 4.x.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-u
-cd EigenVision
+git clone this repo
 ```
 
 Replace `<your-repository-url>` with your actual GitHub repository URL.
